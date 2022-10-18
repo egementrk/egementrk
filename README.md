@@ -23,12 +23,7 @@
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/egementrk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egementrk&theme=aura&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egementrk&theme=aura&layout=compact" />
-</a>
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
