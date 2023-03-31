@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/QjSoXOQIcEXBu/giphy.gif?cid=ecf05e47gjqv5nq5nirqokbn5tvtt60z0ep1uxb55xlkp9lz&rid=giphy.gif&ct=g">
+  <img src= "https://media.giphy.com/media/gd0SGRiG50T27cTK33/giphy.gif?cid=ecf05e47ca6dbwglkesd8lqc4sfmsut6kmha6toirgtmvh2s&rid=giphy.gif&ct=s">
 </p>
 
